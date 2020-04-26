@@ -1,7 +1,5 @@
 package aardemo.cn.com.iosdialog.widget;
 
-import java.util.ArrayList;
-import java.util.List;
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.Color;
@@ -16,6 +14,9 @@ import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.ScrollView;
 import android.widget.TextView;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import aardemo.cn.com.iosdialog.R;
 
