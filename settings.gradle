@@ -1,2 +1,3 @@
 rootProject.name='IosDialog'
 include ':app'
+include ':iosdialog'
